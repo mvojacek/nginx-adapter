@@ -1,4 +1,4 @@
-module github.com/caddyserver/nginx-adapter
+module github.com/mvojacek/nginx-adapter
 
 go 1.13
 
